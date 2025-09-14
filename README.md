@@ -1,4 +1,5 @@
 # React + Vite
+# Make sure to have node js installed!
 # ALSO PLEASE READ
 # TO GET THIS TO RUN ON YOUR MACHINE OPEN THE TERMINAL
 # THEN COPY THIS BELOW
