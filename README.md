@@ -1,5 +1,11 @@
 # React + Vite
-
+# ALSO PLEASE READ
+# TO GET THIS TO RUN ON YOUR MACHINE OPEN THE TERMINAL
+# THEN COPY THIS BELOW
+# npm create vite@latest stem-escape
+#Once you type this in you will get more instructions but just in case you don't follow these 2 below to run it locally on your machine
+# npm install
+# npm run dev
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
